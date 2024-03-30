@@ -5,9 +5,9 @@
 ![](https://img.shields.io/badge/Golang-1.16.3-ff69b4)
 ![](https://img.shields.io/badge/Clang-12.0.5-00cccc)
 
-- 🔭 I’m currently working as Photographer most of time now.
-- 🌱 I’m currently learning Full-stack Development and Deep learning. 
-- 📫 How to reach me: ![here]() some days later.
+- 🔭 I’m currently working as a learner most of the time now.
+- 🌱 I’m currently learning Full-stack Development, iOS Development, and Google Analytics. 
+- 📫 How to reach me:![here]() some days later.
 - ⚡ Fun fact: I am afraid of bugs, so I need to Debug my garden often. (´▽｀)
 <!--
 **aaronkiss/aaronkiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
